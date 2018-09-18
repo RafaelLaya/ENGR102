@@ -22,3 +22,5 @@ The order of the make-it-betters is:
 You might need a keypad membrane and a softpotentiometer to use with fritzing if you would like to recreate the fritzing for discotecas. I found them by doing a google search a year ago when I wrote theese reports and I still have the files, but honestly I do not know my rights to copy those here.
 
 And then the final project was Pars (Based on mePed's Robot)
+
+Also as one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.docx and SoftPotExcel.xls
