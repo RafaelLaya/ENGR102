@@ -19,4 +19,6 @@ The order of the make-it-betters is:
 
 4. Garage: A laser and photosensor systems will detect wheter an obstacle is on the way (usually a car) and a servo will open and close the entrance. A password (#102) has to be entered before the entrance will open. The code handles the case where the car does not move (maybe it got stuck after the entrance opened?) after he enters the correct password (the servo wont crush the car!).
 
-And then the final project was Pars.
+You might need a keypad membrane and a softpotentiometer to use with fritzing if you would like to recreate the fritzing for discotecas. I found them by doing a google search a year ago when I wrote theese reports and I still have the files, but honestly I do not know my rights to copy those here.
+
+And then the final project was Pars (Based on mePed's Robot)
