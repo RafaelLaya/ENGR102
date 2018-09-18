@@ -6,6 +6,7 @@
  * Source code for the walking and dancing robot: Pars
  * The reader can use this code as they please but I won't be liable of anything
  * This is based on the meped v2 (http://www.meped.io/mepedv2)
+ * The functions forward, back, srv and lean are from the original MEPED V2
 */
 
 #include <IRremote.h>
@@ -602,7 +603,7 @@ void wave()
 
   center_servos();
 
- // uncomment this block and comment the next one for original waving
+ // uncomment this block and comment the next one for original waving from MEPED
  /* myServo4.write(45);
   myServo6.write(45);
   delay(200);
