@@ -1,7 +1,7 @@
 # ENGR102
 ENGR102 is a very introductory class (which might be reflected in the make-it-better projects?) to electronics offered in Washington Colleges (Quarterly based system).
 
-In special, keep in mind the english and the low budget that was used in the development of the projects. The class uses the arduino board to introduce students to electronics.
+In special, keep in mind the informal nature of the reports and the low budget that was used in the development of the projects. The class uses the arduino board to introduce students to electronics.
 
 ENGR102 is the first class I took at my college (while also taking Calculus I and English 101). 
 
