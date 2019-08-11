@@ -1,7 +1,6 @@
 /*
  * Rafael Laya
  * Professor Basham's ENGR102 class at Shoreline Community College
- * The reader can use this code as they please but I won't be liable of anything
  * 
  * Purpose and usage:
  * Blinks a LED connected to pin 13
