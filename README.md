@@ -1,7 +1,7 @@
 # ENGR102
 ENGR102 is an introduction to electronics class. The class uses the arduino board to introduce students to electronics.
 
-ENGR102 is the first class I took at my college (while also taking Calculus I and English 101). 
+ENGR102 is the first class I took at my college.
 
 A make-it-better report consists on taking some of the equipment that we just learned how to use and create something!
 
