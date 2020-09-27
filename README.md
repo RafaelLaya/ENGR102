@@ -13,12 +13,12 @@ The order of the make-it-betters is:
 
 3. Discoteca 2.0: An improved version of discoteca with an LCD screen displaying useful information and an array of 8 colored LEDs that will light up in a pattern.
 
-4. Garage: A laser and photosensor systems will detect wheter an obstacle is on the way (usually a car toy) and a servo will open and close the entrance. A password (#102, as in ENGR102) has to be entered before the entrance will open. The code handles the case where the car does not move (car is stuck!) after he enters the correct password (the servo wont crush the car!).
+4. Garage: A laser and photosensor systems will detect wheter an obstacle is on the way (usually a car toy) and a servo will open and close the entrance. A password (#102, as in ENGR102) has to be entered before the entrance will open. The code handles the case where the car does not move (car is stuck!) after he enters the correct password (the servo will not crush the car!).
 
-5. The final project was Pars (Based on mePed's Robot)
+5. The final project was Pars (Based on the mePed v2 Robot)
 
 Read the README.md file located in each project to learn more. 
 
 
 
-Also as one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.pdf and SoftPotExcel.xls
+* In one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.pdf and SoftPotExcel.xls
