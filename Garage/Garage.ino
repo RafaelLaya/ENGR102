@@ -1,10 +1,8 @@
 /*
- * Name: Rafael Antonio Laya Alfonzo
  * November 2017
  * Class: ENGR 102 intro to electronics (Fall 2017)
  * Software Version: Arduino 1.8.2
  * Source code for Discoteca 2.0 more information on the report
- * The reader can use this code as they please but I won't be liable of anything
 */
 
 
