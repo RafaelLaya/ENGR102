@@ -1,14 +1,11 @@
 /*
- * Rafael Laya
- * Professor Basham's ENGR102 class at Shoreline Community College
- * 
  * Purpose and usage:
  * Blinks a LED connected to pin 13
  * while varying the duration of on/off time
  * when user presses the button at pin 12, serial monitor will output the result
  * for re-testing just press the button again (or you can also press the Arduino reset button)
  */
-// Set up some constants for abstraction and portability of the code
+
 const int redLed = 13;
 const int pushButton = 12;
 int buttonState;
