@@ -1,4 +1,4 @@
-# ENGR102
+# Introduction to Electronics -- ENGR102
 ENGR102 is an introduction to electronics class. The class uses the arduino board to introduce students to electronics.
 
 A make-it-better report consists on taking some of the equipment that we just learned how to use and create something!
