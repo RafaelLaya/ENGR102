@@ -5,7 +5,7 @@ A make-it-better report consists on taking some of the equipment that we just le
 
 The final project is open-ended. See Pars/ (Party in Latin), a funny four legged robot that will dance with you all night long! 
 
-The order of the make-it-betters is: 
+You will find a folder corresponding to each of the following:
 
 1. Speedy Blinker: Trying to measure the speed of a blinking light at which you do actually sense the blinking.
 
