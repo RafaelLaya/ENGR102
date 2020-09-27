@@ -21,4 +21,4 @@ Read the README.md file located in each project to learn more.
 
 
 
-* In one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.pdf and SoftPotExcel.xls
+* In one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.pdf
