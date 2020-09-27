@@ -1,11 +1,9 @@
 # ENGR102
 ENGR102 is an introduction to electronics class. The class uses the arduino board to introduce students to electronics.
 
-ENGR102 is the first class I took at my college.
-
 A make-it-better report consists on taking some of the equipment that we just learned how to use and create something!
 
-The final project is open-ended. See Pars (Party in Latin), a funny four legged robot that will dance with you all night long! 
+The final project is open-ended. See Pars/ (Party in Latin), a funny four legged robot that will dance with you all night long! 
 
 The order of the make-it-betters is: 
 
@@ -17,8 +15,10 @@ The order of the make-it-betters is:
 
 4. Garage: A laser and photosensor systems will detect wheter an obstacle is on the way (usually a car toy) and a servo will open and close the entrance. A password (#102, as in ENGR102) has to be entered before the entrance will open. The code handles the case where the car does not move (car is stuck!) after he enters the correct password (the servo wont crush the car!).
 
-You might need a keypad membrane and a softpotentiometer to use with fritzing if you would like to recreate the fritzings by yourself.
+5. The final project was Pars (Based on mePed's Robot)
 
-And then the final project was Pars (Based on mePed's Robot)
+Read the README.md file located in each project to learn more. 
 
-Also as one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.docx and SoftPotExcel.xls
+
+
+Also as one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.pdf and SoftPotExcel.xls
