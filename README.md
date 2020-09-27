@@ -19,6 +19,10 @@ You will find a folder corresponding to each of the following:
 
 Read the README.md file located in each project to learn more. 
 
-
+# Pars
+You can find more information about Pars on the corresponding directory
+[![LINK TO VIDEO](https://i.ytimg.com/vi/2qAEbLpa97w/hqdefault.jpg)](https://youtu.be/2qAEbLpa97w)
 
 * In one of the homeworks we had to characterize one of the sensors, I chose the softpotentiometer. You can see those measurements in SoftPotReport.pdf
+
+
